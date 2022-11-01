@@ -1,0 +1,16 @@
+.todohome{
+   background-image: url("https://c.tenor.com/W8FMQie6hSkAAAAd/pokemon-go-pokemon.gif");
+   background-size: cover;
+}
+.imagenpokemon {
+    width: 40%;
+
+    align-items: center;
+}
+.contenedorimagen{
+    width: 100%;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}

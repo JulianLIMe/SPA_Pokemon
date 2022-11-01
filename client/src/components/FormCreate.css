@@ -1,0 +1,77 @@
+.formGeneral {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgba(146, 182, 241, 0.588);
+}
+
+.formRect {
+    width: 40%;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 0px;
+}
+
+.formRenglon div {
+    
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 25px;
+    border-radius: 20px;
+}
+
+.formRenglon input {
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(211, 209, 209);
+}
+
+.inputTipo {
+    width: 70%;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(211, 209, 209);
+}
+
+.crear {
+    width: 40%;
+    height: 60px;
+    color: white;
+    background-color: rgb(73, 80, 140);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.botonCrear {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(73, 80, 140);
+    color: white;
+    border-radius: 20px;
+    font-size: 25px;
+    margin-left: 230px;
+    margin-top: 40px;
+    
+}
+
+.botonHome {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(73, 80, 140);
+    color: white;
+    border-radius: 20px;
+    font-size: 25px;
+}
+

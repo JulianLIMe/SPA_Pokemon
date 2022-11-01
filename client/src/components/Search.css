@@ -1,0 +1,64 @@
+.buscadorgeneral{
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 25px;
+    
+}
+
+.allPokes {
+    background-color: rgb(245, 204, 91);
+    color: rgba(112, 146, 201, 0.588);
+    margin-right: 25px;
+    font-size: larger;
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+}
+
+.crearPoke {
+    margin-left: 25px;
+    background-color: rgb(245, 204, 91);
+    color: rgba(112, 146, 201, 0.588);
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.inputBuscar {
+    background-color: rgb(245, 204, 91);
+    color: rgba(112, 146, 201, 0.588);
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.inputClient {
+    margin-right: 5px;
+    font-size: 22px;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.allPokes:hover {
+    background-color: rgb(245, 204, 91);
+    color: black;
+}
+
+.crearPoke:hover {
+    color: black;
+}
+
+.inputBuscar:hover {
+    color: black;
+}
+
+

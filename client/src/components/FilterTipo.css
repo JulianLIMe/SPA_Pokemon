@@ -1,0 +1,33 @@
+.todofiltro {
+    background-color: rgb(59, 87, 138);
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.todofiltro input {
+    background-color: rgb(59, 87, 138);
+    color: rgb(38, 56, 88);
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.inputFiltro {
+    opacity: .8;
+    background-color: white;
+    color: rgb(38, 56, 88);
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    margin-right: 5px;
+}
+
+.todofiltro input:hover {
+    color: rgba(146, 182, 241, 0.588);
+}

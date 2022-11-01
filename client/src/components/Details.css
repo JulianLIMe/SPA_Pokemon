@@ -1,0 +1,62 @@
+.todoDetalles {
+    background-color: rgba(146, 182, 241, 0.588);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tituloDetalle {
+    background-color: rgb(73, 80, 140);
+    color: white;
+    font-size: 50px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+.targetaDetalles {
+    background-color: white;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 4px 4px 6px;
+    flex-direction: column;
+    width: 600px;
+    height: 600px;
+}
+
+.datosPokemon p{
+    background-color:rgb(73, 80, 140);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-end;
+    height: 45px;
+    border-radius: 20px;
+}
+
+.estadisticas {
+    font-size: 40px;
+    color: rgb(73, 80, 140);
+}
+
+.estadisticaTipo {
+    font-size: 40px;
+    color: rgb(73, 80, 140);
+}
+
+.botonHomeDetalles {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(73, 80, 140);
+    color: white;
+    border-radius: 20px;
+    font-size: 25px;
+}

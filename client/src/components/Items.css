@@ -1,0 +1,35 @@
+.Grillapokemons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 45px;
+    justify-content: space-around;
+}
+
+.contenedor {
+    width: 100%;
+    align-items:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Paginado{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 25px;
+}
+
+.creador {
+    margin-top: 35px;
+    padding: 20px;
+    background-color: rgb(59, 87, 138);
+}
+
+.creador {
+    display: flex;
+    align-items: flex-end;
+}
